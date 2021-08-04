@@ -1,4 +1,5 @@
-.flshy {
+.flashy {
+  text-align: center;
   color: red;
   font-style: italic;
 }
@@ -6,4 +7,14 @@
 .best {
   color: green;
   font-style: italic;
+}
+
+img {
+  width: 400px;
+  margin-left: 750px;
+  margin-right: 600px;
+}
+
+h2{
+  text-align: center;
 }
